@@ -1,1 +1,3 @@
 1 add a no2text by txnno2
+2 modify no2:wq
+
